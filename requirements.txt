@@ -1,0 +1,8 @@
+flask
+TA-Lib
+pandas
+yfinance
+pandas_ta
+plotly
+nsepy
+flask
